@@ -1,0 +1,8 @@
+DATOS DE LIQUIDACIÓN DE jairo 
+
+Nombre del trabajador: jairo 
+Sueldo base: $4,000,000.00
+Pago por cada hora extra: $375,000.00
+Total ingresos mensuales: $4,375,000.00
+Descuentos por seguridad social: $743,750.00
+Sueldo neto a pagar: $3,631,250.00
